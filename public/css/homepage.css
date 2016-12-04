@@ -1,0 +1,273 @@
+body
+{
+    background: -moz-linear-gradient(#000000, #b3b3b3); /* For Firefox 3.6 to 15 */
+    background-color: #333333;
+
+
+//background: linear-gradient(#000000 , #b3b3b3); /* Standard syntax */
+    width: 97%;
+    color:white;
+}
+
+
+#header
+{
+    background-color:#000000;
+    text-align:center;
+    padding:5px;
+}
+
+
+main
+{
+    width: 97%;
+    margin-bottom: 1%;
+}
+
+#paragraph
+{
+    background-color:#b30000;
+    color:black;
+    margin-left: 3%;
+    margin-top: 2%;
+    width: 97%;
+    display: inline;
+    float: left;
+    font-family:Arial;
+    margin-bottom: 3%;
+    padding: 1%;
+   
+}
+
+
+
+#footer 
+{
+    background-color:#b30000;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+#gymimages img
+{
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 13.5%;
+  height: 18%;
+}
+
+#aboutp1
+{
+    background-color:#b30000;
+    color:black;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 2%;
+    width: 45%;
+    display: inline;
+    float: left;
+    font-family:Arial;
+
+}
+
+#aboutp1 p
+{
+    padding: 3%;
+}
+
+#aboutp2 li
+{
+    background-color:#ffad33;
+    color:black;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: .5%;
+    width: 47%;
+    display: inline;
+    float: left;
+    font-family:Arial;
+}
+
+#aboutp2 p
+{
+    padding: 2%;
+}
+
+#aboutp2
+{
+    padding: 2%;
+}
+
+#aboutmap
+{
+    padding: 3px;
+    float: bottom;
+}
+
+#sitemap
+{
+    width: 97%;
+    padding:1%;
+    background-color: #ffad33;
+    margin-bottom: 1%;
+    margin-top: 2%;
+
+}
+
+
+table {
+    border: 1px solid #140000;
+    border-collapse: collapse;
+}
+
+td {
+    background-color: #ffad33;
+    border: 1px solid #140000;
+    padding: 6px 12px 6px 3px;
+
+}
+
+th {
+    background-color: #b30000;
+    color:black;
+    border: 1px solid #140000;
+    padding: 3px 12px 3px 3px;
+
+}
+
+tr.even {
+    background-color: white;
+}
+
+tr.odd {
+    background-color: #CCFFCC;
+}
+
+label
+{
+    display: block;
+    width: 50px;
+
+}
+
+
+#table1
+{
+   padding-left: 15%;
+   padding-right: 15%;
+   margin-bottom: 5%;
+}
+
+#contact1
+{
+    background-color:#b30000;
+    color:black;
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 95%;
+    display: inline;
+    float: left;
+    font-family:Arial;
+    padding: 2%;
+}
+
+#contact2
+{
+    background-color:#ffad33;
+    color:black;
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 95%;
+    display: inline;
+    float: left;
+    font-family:Arial;
+    padding: 2%;
+}
+
+#received
+{
+    background-color:#b30000;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 97%;
+    padding-bottom: 5%;
+    display: inline;
+    float: left;
+    font-family:Arial;
+
+}
+
+#received p, h2
+{
+    padding-left: 2%;
+}
+
+#shop1
+{
+    background-color:#b30000;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 97%;
+    padding-bottom: 5%;
+    display: inline;
+    float: left;
+    font-family:Arial;  
+}
+
+#shop1 p, h2
+{
+    padding-left: 2%;
+}
+
+#shopimages img
+{
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 175px;
+  height: 175px;
+}
+
+#shopimages1
+{
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 225px;
+  height: 200px;
+  float: left;
+}
+
+form {
+    padding: 0;
+}
+
+#submit
+{
+    margin-bottom: 1%;
+}
+
+.login {
+    padding: 1%;
+    width: 10%;
+    background-color: orange;
+}
+
+.detail1
+{
+    background-color:#ffad33;
+    width: 45%;
+    padding: 1%;
+    margin: 2%;
+}
+
+.createUser {
+    text-decoration: none;
+}
